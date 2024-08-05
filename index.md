@@ -9,8 +9,9 @@ Protecting you IT system by identifing and managing risks can be a mind-field to
 - [x] **Explorations of leading applications** to help you build a robust security strategy.
 - [x] **Guidance through each step** of the risk management process, from identification to mitigation.
 
-This site will help you to proactively identify vulnerabilities, prioritise risks, and implement effective controls to safeguard your data. 
-**Keep Secure, you-will-be Protected** (KSyP)
+{: .highlight }
+> This site will help you to proactively identify vulnerabilities, prioritise risks, and implement effective controls to safeguard your data. 
+> **Keep Secure, you-will-be Protected** (KSyP)
 
 | **Operating Systems** | Windows | Linux | Mac OS | FortiOS |
 | **Desktop Applications** | Chrome | Edge | Firefox | |
