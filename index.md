@@ -5,13 +5,13 @@ layout: home
 
 Protecting you IT system by identifing and managing risks can be a mind-field to navigate. KSyP.tech offers resources for every stage of the IT security risk management process. Our comprehensive website provides:
 
+{: .highlight }
 - [x] **Actionable resources and advice** tailored to your specific environment (personal, cloud, on-premise).
 - [x] **Explorations of leading applications** to help you build a robust security strategy.
 - [x] **Guidance through each step** of the risk management process, from identification to mitigation.
 
-{: .highlight }
-> This site will help you to proactively identify vulnerabilities, prioritise risks, and implement effective controls to safeguard your data. 
-> **Keep Secure, you-will-be Protected** (KSyP)
+This site will help you to proactively identify vulnerabilities, prioritise risks, and implement effective controls to safeguard your data. 
+**Keep Secure, you-will-be Protected** (KSyP)
 
 | **Operating Systems** | Windows | Linux | Mac OS | FortiOS |
 | **Desktop Applications** | Chrome | Edge | Firefox | |
