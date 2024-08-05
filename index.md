@@ -3,15 +3,20 @@ title: Home
 layout: home
 ---
 
-Trying to protect you IT systems and identify and manage risks can be a min field to navigate. KSyP.tech empowers you to navigate every stage of the IT security risk management process. Our comprehensive website provides:
+Protecting you IT systems by identifing and manage risks can be a mind-field to navigate. KSyP.tech offers resources for every stage of the IT security risk management process. Our comprehensive website provides:
 
-1. **Actionable resources and advice** tailored to your specific environment (personal, cloud, on-premise).
-2. **Explorations of leading applications** to help you build a robust security strategy.
-3. **Guidance through each step** of the risk management process, from identification to mitigation.
+- [x] **Actionable resources and advice** tailored to your specific environment (personal, cloud, on-premise).
+- [x] **Explorations of leading applications** to help you build a robust security strategy.
+- [x] **Guidance through each step** of the risk management process, from identification to mitigation.
 
-With our guidance, you can proactively identify vulnerabilities, prioritize risks, and implement effective controls to safeguard your data. **Keep Secure, you-will-be Protected**.
+This site will help you to proactively identify vulnerabilities, prioritise risks, and implement effective controls to safeguard your data. 
+**Keep Secure, you-will-be Protected** (KSyP)
 
-----
+| Operating Systems | Windows | Linux | Mac OS | FortiOS |
+| Desktop Applications | Chrome | Edge | Firefox | |
+| Standards | NIST CSF | | | |
+
+-----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
