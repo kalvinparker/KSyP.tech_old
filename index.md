@@ -5,9 +5,9 @@ layout: home
 
 Trying to protect you IT systems and identify and manage risks can be a min field to navigate. KSyP.tech empowers you to navigate every stage of the IT security risk management process. Our comprehensive website provides:
 
-**Actionable resources and advice** tailored to your specific environment (cloud, on-premise, hybrid).
-**Explorations of leading applications** to help you build a robust security strategy.
-**Guidance through each step** of the risk management process, from identification to mitigation.
+1. **Actionable resources and advice** tailored to your specific environment (personal, cloud, on-premise).
+2. **Explorations of leading applications** to help you build a robust security strategy.
+3. **Guidance through each step** of the risk management process, from identification to mitigation.
 
 With our guidance, you can proactively identify vulnerabilities, prioritize risks, and implement effective controls to safeguard your data. **Keep Secure, you-will-be Protected**.
 
