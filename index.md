@@ -3,6 +3,8 @@ title: Home
 layout: home
 ---
 
+<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Preview dark color scheme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Return to the light side'; } }); </script>
+
 Protecting you IT systems by identifing and manage risks can be a mind-field to navigate. KSyP.tech offers resources for every stage of the IT security risk management process. Our comprehensive website provides:
 
 - [x] **Actionable resources and advice** tailored to your specific environment (personal, cloud, on-premise).
