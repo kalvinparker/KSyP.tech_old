@@ -1,15 +1,21 @@
-logo_url: _assets\images\logo.jpg  # Replace with your logo URL
+# Header
 title: KSyP.tech
 description: KSyP.tech (Keep Secure, you-will-be Protected) offering resources for each stage of the your IT security risk management process.
+
+# Template settings
+color_scheme: dark # Color scheme supports "light" (default) and "dark"
+enable_copy_code_button: true # For copy button on code
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+# Banner
 aux_links:
   GitHub: https://github.com/kalvinparker/KSyP.tech
 
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-
-# For copy button on code
-enable_copy_code_button: true
+# Default pages / products values
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/logo.jpg
